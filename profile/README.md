@@ -7,3 +7,6 @@
 
 ---
 
+Code kept in this organisation is intended to be for internal use only. However, re-usable content not specific to our Cybersecurity Experiences may be open sourced at later points.
+
+If you are interested in joining the project, contact Joel.Dellar@adelaide.edu.au and Ellie.Parker@adelaide.edu.au.
